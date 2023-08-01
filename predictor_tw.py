@@ -22,7 +22,7 @@ def branch_day_mean_table(branch_name, day_short):
     }
 
     # Open the waiting time data CSV and creates list with each row of CSV as an element
-    file_path = 'waiting_time_merged.csv'
+    file_path = 'waiting_time_merged_0713.csv'
     with open(file_path, newline='') as csvfile:
         reader = csv.reader(csvfile)
         rows = list(reader)
