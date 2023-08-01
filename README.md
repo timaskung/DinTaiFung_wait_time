@@ -1,7 +1,8 @@
-# Din Tai Fung Waiting Time Predictor
+# Din Tai Fung Waiting Time Predictor :dumpling:
 
 ## Summary
 This tool predicts the waiting time for the Din Tai Fung branches in Taiwan.
+
 
 ## Quick Start
 1. Download [waiting_time_merged_0713.csv](waiting_time_merged_0713.csv) with all the collected waiting times.
