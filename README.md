@@ -26,4 +26,5 @@ Potential future updates:
 
 ## Acknowledgement
 This project was inspired by Tze-Li Liu.
-Data was obtained from Din Tai Fung's website. 
+
+Data was obtained from Din Tai Fung's website; API URL is https://www.dintaifung.tw/Queue/Home/WebApiTest. 
